@@ -1,1 +1,1 @@
-<footer>Sono il footer</footer>
+{{-- <footer>Sono il footer</footer> --}}
